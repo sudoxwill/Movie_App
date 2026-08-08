@@ -1,0 +1,17 @@
+class AppSizes {
+  static const xs = 4.0;
+  static const sm = 8.0;
+  static const md = 16.0;
+  static const lg = 24.0;
+  static const xl = 32.0;
+  static const xxl = 40.0;
+  static const xxxl = 48.0;
+
+  static const movieListViewHeight = 240.0;
+  static const movieCardWidth = 100.0;
+  static const movieCardHeight = 150.0;
+  static const featuredMovieHeight = movieCardHeight;
+  static const toggleButtonHeight = 50.0;
+  static const cacheImageHeight = 300;
+  static const textMaxLines = 2;
+}
