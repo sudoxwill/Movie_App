@@ -223,13 +223,19 @@ This project was developed as part of a Flutter multi-screen certification proje
 - UI / data separation
   
 # Screens  
-![1](1.png)
-![2](2.png)
-![3](3.png)
-![4](4.png)
-![5](5.png)
-![6](6.png)
-![7](7.png)
-![8](8.png)
-![9](9.png)
-![10](10.png)
+<table>
+  <tr>
+    <td><img src="1.png" width="200"/></td>
+    <td><img src="2.png" width="200"/></td>
+    <td><img src="3.png" width="200"/></td>
+    <td><img src="4.png" width="200"/></td>
+    <td><img src="5.png" width="200"/></td>
+  </tr>
+  <tr>
+    <td><img src="6.png" width="200"/></td>
+    <td><img src="7.png" width="200"/></td>
+    <td><img src="8.png" width="200"/></td>
+    <td><img src="9.png" width="200"/></td>
+    <td><img src="10.png" width="200"/></td>
+  </tr>
+</table>
