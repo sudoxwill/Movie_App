@@ -221,3 +221,15 @@ This project was developed as part of a Flutter multi-screen certification proje
 - State management with ValueNotifier
 - Light/dark theme handling
 - UI / data separation
+  
+# Screens  
+![1](1.png)
+![2](2.png)
+![3](3.png)
+![4](4.png)
+![5](5.png)
+![6](6.png)
+![7](7.png)
+![8](8.png)
+![9](9.png)
+![10](10.png)
